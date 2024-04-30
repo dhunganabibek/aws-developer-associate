@@ -7,4 +7,5 @@
 5. Role Based Access Control
 6. Attribute Based Access Control
 7. Tags
-8.
+8. stsAssumeRole to gain the permission
+9.
